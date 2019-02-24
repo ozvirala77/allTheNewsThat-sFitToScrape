@@ -1,0 +1,2 @@
+# allTheNewsThat-sFitToScrape
+News Scraper
