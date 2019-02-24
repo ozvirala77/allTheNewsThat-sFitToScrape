@@ -27,7 +27,7 @@ Web Browser
 Nodejs
 Mongo DB
 Installation
-All the News That's Fit to Scrape can be downloaded by cloning this repository https://github.com/roverkim/Be-My-Friend-Finder.git A Live Example can be Found Here https://afternoon-mountain-55394.herokuapp.com
+A Live Example can be Found Here https://afternoon-mountain-55394.herokuapp.com
 
 After installation, open node, navigate to the file and run npm install.
 
